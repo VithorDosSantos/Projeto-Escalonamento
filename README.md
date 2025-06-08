@@ -19,7 +19,7 @@ Este projeto é uma aplicação em Python com interface gráfica desenvolvida us
 4. Execute o programa:
 
 ## Auxilios Ultilizados na interface e na estlização :
-https://www.devmedia.com.br/tkinter-interfaces-graficas-em-python/33956
+https://www.devmedia.com.br/tkinter-interfaces-graficas-em-python/33956 ;
 chat gpt
 ## Auxilios ultilizados para correção de bugs no algoritimos de ordenaçao e interface:
 chat Gpt
