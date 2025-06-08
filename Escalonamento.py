@@ -127,7 +127,7 @@ class app:
 
         self.escrever("\nTodos os processos foram executados.")
         if self.resultados:
-            vencedor = sorted(self.resultados, key=lambda x: x[1])[0][0]#sorted pega do menor pro maior
+            vencedor = sorted(self.resultados, key=lambda x: x[1])[0][0]
             self.escrever(f'O vencedor foi {vencedor}')
 
     def escalonador_fifo(self):
